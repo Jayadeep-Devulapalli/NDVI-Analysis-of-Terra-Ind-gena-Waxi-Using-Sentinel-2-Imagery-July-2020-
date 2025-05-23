@@ -1,0 +1,1 @@
+# NDVI-Analysis-of-Terra-Ind-gena-Waxi-Using-Sentinel-2-Imagery-July-2020-
